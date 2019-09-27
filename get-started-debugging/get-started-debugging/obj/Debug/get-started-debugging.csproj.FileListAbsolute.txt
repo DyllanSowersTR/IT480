@@ -1,0 +1,7 @@
+C:\Users\dylla\Documents\GitHub\IT480\get-started-debugging\get-started-debugging\bin\Debug\get-started-debugging.exe.config
+C:\Users\dylla\Documents\GitHub\IT480\get-started-debugging\get-started-debugging\bin\Debug\get-started-debugging.exe
+C:\Users\dylla\Documents\GitHub\IT480\get-started-debugging\get-started-debugging\bin\Debug\get-started-debugging.pdb
+C:\Users\dylla\Documents\GitHub\IT480\get-started-debugging\get-started-debugging\obj\Debug\get-started-debugging.csprojAssemblyReference.cache
+C:\Users\dylla\Documents\GitHub\IT480\get-started-debugging\get-started-debugging\obj\Debug\get-started-debugging.csproj.CoreCompileInputs.cache
+C:\Users\dylla\Documents\GitHub\IT480\get-started-debugging\get-started-debugging\obj\Debug\get-started-debugging.exe
+C:\Users\dylla\Documents\GitHub\IT480\get-started-debugging\get-started-debugging\obj\Debug\get-started-debugging.pdb
